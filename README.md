@@ -23,8 +23,8 @@ Este projeto foi desenvolvido para gerenciar pessoas, salas e espaços de café 
 ### Passo 1: Clonar o repositório
 
 ```bash
-git clone https://github.com/PatrickDeAlmeidaLima/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/PatrickDeAlmeidaLima/SalaReuniao
+cd SalaReuniao
 ```
 
 ### Passo 2: Instalar as dependências PHP
