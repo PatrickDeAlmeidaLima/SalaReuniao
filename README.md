@@ -116,4 +116,4 @@ Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICE
 
 ---
 
-**Nota**: Esse é um template básico e pode ser adaptado conforme as especificidades do seu projeto.
+**Nota**: Caso tenha algum problema de instalação pode baixar o Laravel puro, pegar os arquivos do projeto e colar na mesma pasta(Apenas em último caso, porém se tudo der errado pode falar comigo no whatsapp +55(61)9 8582-8533)
